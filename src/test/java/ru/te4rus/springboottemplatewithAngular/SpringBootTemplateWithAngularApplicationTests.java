@@ -1,10 +1,10 @@
-package ru.te4rus.angularftspring;
+package ru.te4rus.springboottemplatewithAngular;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AngularftspringApplicationTests {
+class SpringBootTemplateWithAngularApplicationTests {
 
 	@Test
 	void contextLoads() {

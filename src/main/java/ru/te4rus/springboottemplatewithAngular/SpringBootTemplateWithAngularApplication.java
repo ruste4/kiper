@@ -1,13 +1,13 @@
-package ru.te4rus.angularftspring;
+package ru.te4rus.springboottemplatewithAngular;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AngularftspringApplication {
+public class SpringBootTemplateWithAngularApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AngularftspringApplication.class, args);
+		SpringApplication.run(SpringBootTemplateWithAngularApplication.class, args);
 	}
 
 }

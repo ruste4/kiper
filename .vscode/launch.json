@@ -3,6 +3,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch SpringBootTemplateWithAngularApplication",
+      "request": "launch",
+      "mainClass": "ru.te4rus.springboottemplatewithAngular.SpringBootTemplateWithAngularApplication",
+      "projectName": "spring-boot-template-with-Angular"
+    },
+    {
       "name": "ng serve",
       "type": "pwa-chrome",
       "request": "launch",

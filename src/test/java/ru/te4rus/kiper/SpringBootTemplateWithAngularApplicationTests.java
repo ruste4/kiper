@@ -1,4 +1,4 @@
-package ru.te4rus.springboottemplatewithAngular;
+package ru.te4rus.kiper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

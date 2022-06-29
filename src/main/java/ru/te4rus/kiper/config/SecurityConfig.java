@@ -1,4 +1,4 @@
-package ru.te4rus.springboottemplatewithAngular.config;
+package ru.te4rus.kiper.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
